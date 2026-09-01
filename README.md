@@ -29,5 +29,5 @@ This project implements a serverless RAG pipeline that acts as a strict educatio
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/vincemutua/academic-rag-assistant.git](https://github.com/vincemutua/academic-rag-assistant.git)
+   git clone [https://github.com/vincemutua/academic-rag-assistant.git]
    cd academic-rag-assistant
